@@ -91,6 +91,7 @@ Plugin 'jiangmiao/auto-pairs' " auto closing
 Plugin 'preservim/nerdtree' " file system explorer
 " Plugin 'valloric/youcompleteme' " auto complete
 Plugin 'itchyny/lightline.vim' " status bar
+Plugin 'vimwiki/vimwiki' " notetaking
 
 " terminate Vundle
 call vundle#end() " terminate Vundle
